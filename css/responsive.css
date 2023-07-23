@@ -1,0 +1,52 @@
+@media screen and (max-width:425px) {
+
+    .nav-container {
+
+
+
+        width: 500px;
+        height: 600px;
+        flex-direction: column;
+
+    }
+
+    .nav-description {
+
+
+        display: flex;
+        justify-content: center;
+        padding-left: 60px;
+
+
+    }
+
+    .nav-menu {
+
+        width: 100%;
+        justify-content: center;
+        padding-left: 300px;
+        text-align: center;
+
+    }
+
+    .main1-container {
+        flex-direction: column;
+
+    }
+
+    .main2-container {
+        flex-direction: column;
+    }
+
+    .main2-description {
+        display: flex;
+    }
+
+    .main2-title {
+
+        padding-top: 0px;
+    }
+
+
+
+}
