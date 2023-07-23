@@ -48,5 +48,11 @@
     }
 
 
+    .allvideos {
+        flex-direction: column;
+        margin-left: 500px;
+    }
+
+
 
 }
